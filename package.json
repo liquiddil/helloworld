@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/liquiddil/helloworld/issues"
   },
-  "homepage": "https://github.com/liquiddil/helloworld#readme"
+  "homepage": "https://github.com/liquiddil/helloworld#readme",
+  "dependencies": {
+    "hellowworld": "^1.0.0"
+  }
 }
